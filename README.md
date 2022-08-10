@@ -4,6 +4,7 @@
 ## About me
 
 Heyo, my name's João and I'm a CE student at Universidade Federal do Rio Grande/FURG - Brasil
+
 Automating boring or unnecessary processes with python or arduino is my life, although I'm currently looking forward to studying new programming languages like C and javascript.
 
 If you want to contact me you can send me an email at jvtoppa@furg.br 😉
