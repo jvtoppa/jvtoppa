@@ -14,7 +14,7 @@ If you want to contact me you can send me an email at jvtoppa@furg.br
 
 ## Current projects
 
-Currently working as a Data Engineer and Arduino programmer at the FURG Astronomical Observatory
+Currently learning about Raytracing/Shaders.
 
 
 
