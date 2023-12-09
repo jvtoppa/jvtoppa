@@ -16,7 +16,7 @@ If you want to contact me you can send me an email at jvtoppa@furg.br
 
 ## Current projects
 
-Currently learning about Raytracing in C++. 
+Currently learning about HTML and CSS. 
 
 
 
