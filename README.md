@@ -3,7 +3,7 @@
 
 ## About me
 
-Hello, my name's João and I'm a Applied Maths student at Unicamp - Brasil
+Hello, my name's João and I'm anApplied Maths student at Unicamp - Brasil
 
 Most of my projects are related to automation, data management and statystical analysis.
 
