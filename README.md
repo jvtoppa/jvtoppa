@@ -16,7 +16,7 @@ If you want to contact me you can send me an email at jvtoppa@gmail.com
 
 ## Current projects
 
-Currently learning about HTML and CSS. 
+Currently building a physics-based engine.
 
 
 
