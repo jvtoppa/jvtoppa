@@ -16,7 +16,7 @@ If you want to contact me you can send me an email at jvtoppa@gmail.com
 
 ## Current projects
 
-Currently studying data structures/numeric methods.
+Currently studying compression algorithms and numeric methods.
 
 
 
